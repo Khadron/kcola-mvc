@@ -1,0 +1,28 @@
+{
+    "app_routes": [
+        {
+            "namespace": "crm",
+            "prefix": "api",
+            "version": "v1"
+        },
+        {
+            "namespace": "ticket",
+            "prefix": "api",
+            "version": "v2"
+        },
+        {
+            "namespace": "socket",
+            "prefix": "cola",
+            "upgrade": "ws"
+        }
+    ],
+    "enable_spa_history_mode": false,
+    "enable_https": false,
+    "enable_websocket": true,
+    "enable_load_middleware": false,
+    "max_pool_size": 16,
+    "certificate": {
+        "certPath": null,
+        "keyPath": null
+    }
+}
