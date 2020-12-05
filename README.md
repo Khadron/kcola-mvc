@@ -1,7 +1,7 @@
 # kcola-mvc
 
 ## 简介
-`kcola-mvc` 是 `kcola` 框架的最佳实践
+`kcola-mvc` 是 [kcola](https://github.com/Khadron/kcola) 框架的最佳实践
 
 可以快速实现业务功能，提升开发效率，降本增效
 
