@@ -8,19 +8,19 @@
 ## 目录说明
 ```shell
 -/src
---/config        --存放项目配置文件
---/controller    --存放controller文件
---/middleware    --存放项目中自定义的中间件
---/public        --静态资源目录
---/route_config  --存放路由文件目录
---/services      --存放项目中‘服务’，比如日志服务，生成token服务
---/test          --单元测试
---/utils         --工具
---/view_model    --存放页面显示用到的实体对象
---/views         --存放页面(动态/静态)
-app.js           --应用程序文件
-appConfig.json   --kcola框架配置文件
-starter.js       --程序启动文件（入口文件）
+-  /config         --存放项目配置文件
+-  /controller     --存放controller文件
+-  /middleware     --存放项目中自定义的中间件
+-  /public         --静态资源目录
+-  /route_config   --存放路由文件目录
+-  /services       --存放项目中‘服务’，比如日志服务，生成token服务
+-  /test           --单元测试
+-  /utils          --工具函数
+-  /view_model     --存放页面显示用到的实体对象
+-  /views          --存放页面(动态/静态)
+-  app.js          --应用程序文件
+-  appConfig.json  --kcola框架配置文件
+-  starter.js      --程序启动文件（入口文件）
 ```
 
 ## kcola-mvc中间件
